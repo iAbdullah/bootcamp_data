@@ -1,3 +1,7 @@
+## ⚙️ How to Run
+1. **Clone:** `git clone https://github.com/iAbdullah/bootcamp_data.git`
+2. **Setup:** `pip install pandas numpy plotly nbformat`
+3. **Open:** `jupyter notebook notebooks/eda.ipynb`
 # E-commerce Data Analysis Project 🚀
 
 This repository contains a comprehensive **Exploratory Data Analysis (EDA)** of e-commerce order data, focusing on regional performance and statistical significance.
@@ -131,10 +135,7 @@ Follow these steps to run the analysis on your local machine:
 * **Data Cleaning:** Processed over 5,000 orders.
 * **Statistical Testing:** Performed `Bootstrap comparison` for refund rates.
 
-## ⚙️ How to Run
-1. **Clone:** `git clone https://github.com/iAbdullah/bootcamp_data.git`
-2. **Setup:** `pip install pandas numpy plotly nbformat`
-3. **Open:** `jupyter notebook notebooks/eda.ipynb`
+
 
 
 
