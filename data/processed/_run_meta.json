@@ -1,7 +1,11 @@
 {
-  "timestamp_utc": "2025-12-23T17:48:23.103719+00:00",
+  "timestamp_utc": "2025-12-25T15:01:26.772012+00:00",
   "rows": {
-    "orders": 5,
-    "users": 4
+    "orders": 5250,
+    "users": 1000
+  },
+  "outputs": {
+    "orders": "C:\\Users\\abdul\\Desktop\\bootcamp_data\\data\\processed\\orders.parquet",
+    "users": "C:\\Users\\abdul\\Desktop\\bootcamp_data\\data\\processed\\users.parquet"
   }
 }
